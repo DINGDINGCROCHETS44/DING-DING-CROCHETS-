@@ -295,4 +295,4 @@ manufactured with consistency and quality for wholesale buyers.
 <p>Email:tamannashaikh5900@gmail.com</p>    
 <p>Phone: +9190046 54884</p>    
 </div>    </div>    </footer>    </body>    
-</html> now get me a file of this so i can check
+</html> 
